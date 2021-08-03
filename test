@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer <authenticpayment.stellarmint.io>" https://ubiquity.api.blockdaemon.com/v2/stellar/mainnet/
