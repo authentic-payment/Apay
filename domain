@@ -1,0 +1,13 @@
+{
+"domain": "authenticpayment.stellarmint.io",
+"website": "https://authentic-payment.com/",
+"logo": "https://stellarmint.io/wp-content/uploads/2021/06/epv5.png",
+"color": "#7f525e",
+"displayName": "Authentic-payment",
+"assets": [
+{
+"code": "Apay",
+"issuer": "GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA
+
+"
+}
