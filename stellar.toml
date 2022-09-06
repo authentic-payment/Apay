@@ -10,8 +10,8 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="Authentic-Payment"
 ORG_URL="https://authentic-payment.com/"
-ORG_LOGO="https://stellarmint.io/wp-content/uploads/2021/06/epv5.png"
-ORG_DESCRIPTION="Authentic-payment (Apay) strives to be a secure and authentic coin for real life transactions and applications within the green, lightning fast and very secure Stellar network. 150 million tokens will be held apart for development & annual rewards. 850 will be in circulation in 2022. We are looking to bring block-chain and daily life closer together. Our goal is developing an app to enable a safe and secure private wallet (YourPay) for your Apays and projected daily usage. We have lots of exciting plans and goals for the near and long term future. Follow us on twitter @OfficialApay"
+ORG_LOGO="https://stellarmint.io/wp-content/uploads/2022/07/Apay-V3.1-2080px-black-glow-nobg1.png"
+ORG_DESCRIPTION="authentic-payment is a digital enterprise that offers multiple services & products. while focussing, building & exploring on possibilities inside of the cryptocurrency space we thought of shaping a project that provides small services like media/brand design, editing & setups for a digital work environment. with the coming application we will give you a safe and secure wallet to store your Authentic-Payment token $Apay, $xlm or other native assets. with more exposure, daily volume & liquidity we can improve the App to a multi chain wallet and who knows where the limit is. Authentic-payment.com"
 ORG_KEYBASE="Appahhhh"
 ORG_TWITTER="@OfficialApay"
 ORG_OFFICIAL_EMAIL="Support@authentic-payment.com"
@@ -22,11 +22,11 @@ issuer="GBDKPRMOLDHTVUFTQATMMFUBKRI372YPUTOSEH5SZAFRAAVADTUGSSMA"
 display_decimals=7
 fixed_number=1000000000
 is_asset_anchored=false
-name="Authentic-payment"
-desc="Fast, green & trustworthy, Apay is the bridge between Stellar and your daily transactions."
-conditions="Authentic-payment (Apay) strives to be a secure and authentic coin for real life transactions and applications within the green, lightning fast and very secure Stellar network. 150 million tokens will be held apart for development & annual rewards. 850 million tokens will be in circulation in 2022. We are looking to bring block-chain and daily life closer together. Our goal is developing an app to enable a safe and secure private wallet (YourPay) for your Apays and projected daily usage. We have lots of exciting plans and goals for the near and long term future. Follow us on twitter @OfficialApay Stay Tuned"
-image="https://stellarmint.io/wp-content/uploads/2021/06/epv5.png"
+name="Authentic-Payment"
+desc="We Focus on business & private solutions. To help everyone get access to digital finance, and the benefits of having the control over your own finances. Why APAY? Authentic-Payment token (APAY) will be the leading token in our eco system. Since it has been issued on the stellar network we have, instant transfers with the consensus protocol, fees are almost none, the energy consumption per transaction is over 99% lower than Bitcoin and Ethereum Www.Authentic-payment.com"
+conditions="$Apay has a maximum (locked) supply of 1.000.000.000 (1billion) APAY tokens. 670 million are in circulation (start 2022). The remaining tokens are for marketing, listings, development and team. No more can ever be added!"
+image="https://stellarmint.io/wp-content/uploads/2022/07/Apay-V3.1-2080px-black-glow-nobg1.png"
 
-# Authentic-payment (Apay) Token was issued using the open and inclusive Stellar blockchain network.
-# Home Domain: Authentic-Payment.stellarmint.io
-# Authentic-payment Token
+# Authentic-Payment (Apay) Token was issued using the open and inclusive Stellar blockchain network.
+# Home Domain: authenticpayment.stellarmint.io
+# Authentic-Payment Token
